@@ -1,0 +1,15 @@
+/home/kirtan/kirtan/dotnet/SampleConsole/bin/Debug/net7.0/SampleConsole
+/home/kirtan/kirtan/dotnet/SampleConsole/bin/Debug/net7.0/SampleConsole.deps.json
+/home/kirtan/kirtan/dotnet/SampleConsole/bin/Debug/net7.0/SampleConsole.runtimeconfig.json
+/home/kirtan/kirtan/dotnet/SampleConsole/bin/Debug/net7.0/SampleConsole.dll
+/home/kirtan/kirtan/dotnet/SampleConsole/bin/Debug/net7.0/SampleConsole.pdb
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.csproj.AssemblyReference.cache
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.AssemblyInfoInputs.cache
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.AssemblyInfo.cs
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.csproj.CoreCompileInputs.cache
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.dll
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/refint/SampleConsole.dll
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.pdb
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/SampleConsole.genruntimeconfig.cache
+/home/kirtan/kirtan/dotnet/SampleConsole/obj/Debug/net7.0/ref/SampleConsole.dll
